@@ -11,5 +11,5 @@ The main goal is to divide the image of a cat into a grid, and a template image 
 ### Final Result
 <p align="center">
 <img src="images/cat1.JPG" class="img-responsive" height="275"> 
-<img src="images/cat1.JPG" class="img-responsive" height="275"> 
+<img src="images/cat2.JPG" class="img-responsive" height="275"> 
 </p>  
